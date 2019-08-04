@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
+<<<<<<< HEAD
 	std::cout << "hello git" << std::endl;
 	std::string name;
 	std::cout << "What is your name?" << std::endl;
@@ -9,5 +10,6 @@ int main(){
 
 	return 0;
 }
+
 
 
